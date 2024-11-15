@@ -1,14 +1,14 @@
 *COMPOSANT DU PROBLEME
-*acteur
+acteur
 eleve
 parent
 prof
 
-*objet
+objet
 ordi
 mobilier scolaire
 
-*infrastructure
+infrastructure
 batiment
 salle info
 
