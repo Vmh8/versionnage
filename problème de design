@@ -1,16 +1,10 @@
 *COMPOSANT DU PROBLEME:
-*acteur
 eleve
 parent
 prof
-
-*objet
 ordi
 mobilier scolaire
-
-*infrastucture
 batiment
 salle info
-
 internet
 adobe
